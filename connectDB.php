@@ -1,6 +1,6 @@
 <?php
 /* Database connection settings */
-	$servername = "bzdbetcvqtkktckfplwv-mysql.services.clever-cloud.com";
+	$servername = "localhost";
     $username = "rfidAdmin";		//put your phpmyadmin username.(default is "root")
     $password = "THisIS@123Secure";			//if your phpmyadmin has a password put it here.(default is "root")
     $dbname = "IndividualAttendanceRecord";
